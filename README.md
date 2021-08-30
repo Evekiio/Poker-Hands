@@ -1,5 +1,5 @@
 # Poker-Hands
-Practicing core java, no lists, no API, only OOP / Arrays. (Evaluates to poker hands and displays winner.)
+Practicing core java, no lists, no API, only OOP / Arrays. (Evaluates two poker hands and displays winner.)
 I wanted to try to get through this without ArrayLists or Hashmaps, while it does work... it's obviously not the most efficient way to complete in terms of redundancy and big-o. Merely a practice with foundational core java competancies. 
 
 ////////////// >> DETAILS
